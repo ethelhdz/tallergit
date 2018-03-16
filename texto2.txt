@@ -1,0 +1,12 @@
+git branch  	//ramas que tenemos
+
+git branch <name> //crear nueva rama
+
+git checkout -b   //crea una nueva rama y nos mueve a esa nueva
+
+git branch -r	 //ramas remotas
+
+git branch -a    //locales y remotas
+
+git checkout nombre //irte a otra rama
+
